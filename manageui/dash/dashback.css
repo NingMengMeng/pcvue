@@ -1,0 +1,13 @@
+.dashback{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 1px solid #ccc;
+    position: relative;
+}
+.dashback>div:nth-child(1){font-size: 16px;}
+.head-trangle-left{
+    cursor: pointer;
+    margin-right: 10px
+}

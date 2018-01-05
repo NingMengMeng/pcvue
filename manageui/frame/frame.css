@@ -1,0 +1,17 @@
+.frame{
+    box-shadow: rgba(0,0,0,0.118) 0px 1px 6px, rgba(0,0,0,0.118) 0px 1px 4px;
+    margin-bottom:20px;
+    min-width: 925px
+}
+.frame .frame-title{ 
+    border-left:3px solid #20a0ff;
+    color: rgba(66,66,66,0.87);
+    background: #eef1f6;
+    padding: 10px;
+}
+.frame .frame-content{
+    padding: 20px;
+    position: relative;
+}
+
+.frame .el-button{padding: 0px}
